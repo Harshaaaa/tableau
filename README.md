@@ -1,6 +1,6 @@
 # Tableau
 
-Tableau is a reference app of sorts.  It provides our current thinking WRT node.js project layout and structure.  Most of the ideas we present here are stolen from various open source projects we've come across.  
+Tableau is a reference app of sorts. It provides our current thinking WRT node.js project layout and structure.  Most of the ideas we present here are stolen from various open source projects we've come across.  
 
 It's not our intention this project be a 100% solution, rather it covers the starting points.  If you are new to Express.js, this should give you an idea how to structure things, as opposed to having a 500 line app.js file (we have plenty of those also).
 
